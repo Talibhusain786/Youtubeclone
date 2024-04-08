@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-    let obj = "hdgsdghsgdhgsh";
+    const obj = "hhsgdhg    ";
     console.log(obj);
     return (
         <>
